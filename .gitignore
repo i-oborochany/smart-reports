@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env / секреты — никогда не коммитим токены МС, ключи бота и т.п.
+.env
+.env.*
+*.local
+secrets/
+
+# Сборка
+dist/
+build/
+.cache/
+
+# Логи
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
