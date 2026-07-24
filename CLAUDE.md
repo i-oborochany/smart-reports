@@ -20,6 +20,7 @@
 - `helpFaq` — вопрос-ответ
 - `helpChangelog` — история обновлений (новое сверху, с датой)
 - `supportEmail`
+- `supportTelegram` — чат поддержки в Telegram: **https://t.me/sup_eion** (видимая ссылка «Поддержка» на сайте и в приложении)
 
 **Подключение:**
 - Сайт → страница «Инструкция» рендерит `helpSections` + `helpFaq` + `helpChangelog`.
